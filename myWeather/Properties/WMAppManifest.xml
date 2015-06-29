@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="" />
+  <App xmlns="" ProductID="{e7ae8d4a-1ad5-4519-936f-f4912e1a9ab2}" Title="myWeather" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="myWeather author" Description="Sample description" Publisher="myWeather" PublisherID="{7d6adf12-e6a2-4289-b03d-1a61f05f14c8}">
+    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_GAMERSERVICES" />
+      <Capability Name="ID_CAP_IDENTITY_DEVICE" />
+      <Capability Name="ID_CAP_IDENTITY_USER" />
+      <Capability Name="ID_CAP_LOCATION" />
+      <Capability Name="ID_CAP_MICROPHONE" />
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_PHONEDIALER" />
+      <Capability Name="ID_CAP_PUSH_NOTIFICATION" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="myWeatherToken" TaskName="_default">
+        <TemplateFlip>
+          <SmallImageURI IsResource="false" IsRelative="true">Background.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsResource="false" IsRelative="true">Background.png</BackgroundImageURI>
+          <Title>myWeather</Title>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <DeviceLockImageURI></DeviceLockImageURI>
+          <HasLarge>false</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>

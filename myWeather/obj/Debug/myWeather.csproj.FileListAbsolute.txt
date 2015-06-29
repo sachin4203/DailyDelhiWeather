@@ -1,0 +1,26 @@
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\obj\Debug\MainPage.g.i.cs
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\Bin\Debug\ApplicationIcon.png
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\Bin\Debug\Background.png
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\Bin\Debug\myWeather.dll
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\Bin\Debug\myWeather.pdb
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\Bin\Debug\AppManifest.xaml
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\Bin\Debug\myWeather.xap
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\obj\Debug\App.g.i.cs
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\obj\Debug\myWeather.g.resources
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\obj\Debug\myWeather.dll
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\obj\Debug\myWeather.pdb
+C:\Users\Sigurd\Desktop\wp7 samples\myWeather\myWeather\obj\Debug\XapCacheFile.xml
+C:\wallpaper_app\myWeather\myWeather\Bin\Debug\ApplicationIcon.png
+C:\wallpaper_app\myWeather\myWeather\Bin\Debug\Background.png
+C:\wallpaper_app\myWeather\myWeather\Bin\Debug\myWeather.dll
+C:\wallpaper_app\myWeather\myWeather\Bin\Debug\myWeather.pdb
+C:\wallpaper_app\myWeather\myWeather\Bin\Debug\AppManifest.xaml
+C:\wallpaper_app\myWeather\myWeather\Bin\Debug\Properties\WMAppManifest.xml
+C:\wallpaper_app\myWeather\myWeather\Bin\Debug\myWeather_Debug_AnyCPU.xap
+C:\wallpaper_app\myWeather\myWeather\obj\Debug\App.g.cs
+C:\wallpaper_app\myWeather\myWeather\obj\Debug\MainPage.g.cs
+C:\wallpaper_app\myWeather\myWeather\obj\Debug\myWeather.g.resources
+C:\wallpaper_app\myWeather\myWeather\obj\Debug\myWeather.dll
+C:\wallpaper_app\myWeather\myWeather\obj\Debug\myWeather.pdb
+C:\wallpaper_app\myWeather\myWeather\obj\Debug\XapCacheFile.xml
